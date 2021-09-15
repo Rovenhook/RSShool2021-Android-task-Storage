@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage (from work)/app/src/main/res/layout/activity_main.xml" value="0.2767210144927536" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage (from work)/app/src/main/res/layout/activity_settings.xml" value="0.2767210144927536" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage (from work)/app/src/main/res/layout/fragment_add_animal.xml" value="0.4" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage (from work)/app/src/main/res/layout/fragment_animals_list.xml" value="0.264" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage (from work)/app/src/main/res/xml/settings.xml" value="0.2767210144927536" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/animal_item.xml" value="0.264" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/fragment_add_animal.xml" value="0.4" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/fragment_animals_list.xml" value="0.264" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/fragment_edit_animal.xml" value="0.28940217391304346" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/layout/fragment_sort_by.xml" value="0.2" />
+        <entry key="..\:/Programs Installed/Android Projects/RSShool2021-Android-task-Storage/app/src/main/res/xml/settings.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/RSShool2021-Android-task-Storage/app/src/main/res/layout/animal_item.xml" value="0.3260416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/RSShool2021-Android-task-Storage/app/src/main/res/layout/fragment_animals_list.xml" value="0.3260416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/RSShool2021-Android-task-Storage/app/src/main/res/xml/settings.xml" value="0.3260416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/rs.android.task.4-master-Storage/app/src/main/res/layout/activity_main.xml" value="0.41757246376811596" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/rs.android.task.4-master-Storage/app/src/main/res/layout/animal_item.xml" value="0.41757246376811596" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/rs.android.task.4-master-Storage/app/src/main/res/layout/fragment_add_animal.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/rs.android.task.4-master-Storage/app/src/main/res/layout/fragment_animals_list.xml" value="0.3260416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/rs.android.task.4-master-Storage/app/src/main/res/layout/fragment_edit_animal.xml" value="0.41757246376811596" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

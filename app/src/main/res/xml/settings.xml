@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:key="first_preferencescreen">
+
+    <SwitchPreference
+        android:key="preference_room_sqlite"
+        android:title="Switch to SQLite instead of Room"
+        android:defaultValue="false"
+        android:summary="If switch ON SQLite is used directly without ORM Room" />
+
+    <ListPreference
+        android:key="preference_sort_by"
+        android:title="Sort animals by"
+        android:summary="Listed animals will be sorted by the chosen field"
+        android:defaultValue="Time added"
+        android:entries="@array/settings_sort_by"
+        android:entryValues="@array/settings_sort_by" />
+
+</PreferenceScreen>
