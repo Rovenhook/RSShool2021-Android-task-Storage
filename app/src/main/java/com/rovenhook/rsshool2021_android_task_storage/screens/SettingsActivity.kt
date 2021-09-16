@@ -37,6 +37,7 @@ class SettingsActivity : AppCompatActivity() {
     override fun onBackPressed() {
         val intent = Intent(baseContext, MainActivity::class.java)
         startActivity(intent)
+        finish()
 
  //       super.onBackPressed()
     }

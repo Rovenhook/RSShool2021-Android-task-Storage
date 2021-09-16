@@ -69,6 +69,9 @@ class AnimalsListFragment : Fragment() {
             val intent = Intent(requireActivity(), SettingsActivity::class.java)
             startActivity(intent)
 
+//            requireActivity().supportFragmentManager.beginTransaction()
+//                .replace(R.id.fragmentContainerView, SettingsFragment()).commit()
+
         }
 
         return binding.root
