@@ -38,6 +38,6 @@ class SettingsActivity : AppCompatActivity() {
         val intent = Intent(baseContext, MainActivity::class.java)
         startActivity(intent)
 
- //       super.onBackPressed()
+        super.onBackPressed()
     }
 }
